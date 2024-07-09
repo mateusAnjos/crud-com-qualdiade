@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "date": "2024-07-09T04:41:03.738Z",
+      "content": "Primeira TODO",
+      "done": false
+    },
+    {
+      "date": "2024-07-09T04:41:03.740Z",
+      "content": "Segunda TODO",
+      "done": false
+    }
+  ]
+}
